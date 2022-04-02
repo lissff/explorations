@@ -1,3 +1,7 @@
+layout: post
+title: "OSM the Very First Run"
+date: 2022-04-02
+categories: OSM AGIC
 # OSM the Very First Run
 
 ## OSM with AKS
